@@ -4,7 +4,7 @@ class finnZhDictionary {
         this.apiUrl = "https://www.sanakirja.fi/api/search/api/sk/search";
         this.headers = {
             "Accept": "application/json",
-            "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6dHJ1ZSwiaWF0IjoxNzIyNjcxMDQ0LCJqdGkiOiJjYmExZDJmOC01NzA3LTRlN2QtYTEwYi0yZDNiNjExOWQ2MzUiLCJ0eXBlIjoiYWNjZXNzIiwiaWRlbnRpdHkiOnsidXNlcl9pZCI6IjViZWRlNjhmLTIxZmYtNDE3Ny1iZDBiLWU0YjU5NWNhM2I2NSIsImNsaWVudCI6IkdVNzdSeTRMWThhOEc3NElCZzAzQm5WMDhBNTQ2azY1IiwiY2xpZW50X25hbWUiOiJzYW5ha2lyamEifSwibmJmIjoxNzIyNjcxMDQ0LCJleHAiOjE3MjI2NzQ2NDQsInVzZXJfY2xhaW1zIjp7Imhhc1ByZW1pdW1Db250ZW50Ijp0cnVlLCJzdGF0c1VzZXJUeXBlIjoidHJpYWwifX0.zreNLBCeOvXBoE6E1TN2gf4DfhXfXEkoOldIIcZXbEo",
+            oxNzIyNjcxMDQ0LCJqdGkiOiJjYmExZDJmOC01NzA3LTRlN2QtYTEwYi0yZDNiNjExOWQ2MzUiLCJ0eXBlIjoiYWNjZXNzIiwiaWRlbnRpdHkiOnsidXNlcl9pZCI6IjViZWRlNjhmLTIxZmYtNDE3Ny1iZDBiLWU0YjU5NWNhM2I2NSIsImNsaWVudCI6IkdVNzdSeTRMWThhOEc3NElCZzAzQm5WMDhBNTQ2azY1IiwiY2xpZW50X25hbWUiOiJzYW5ha2lyamEifSwibmJmIjoxNzIyNjcxMDQ0LCJleHAiOjE3MjI2NzQ2NDQsInVzZXJfY2xhaW1zIjp7Imhhc1ByZW1pdW1Db250ZW50Ijp0cnVlLCJzdGF0c1VzZXJUeXBlIjoidHJpYWwifX0.zreNLBCeOvXBoE6E1TN2gf4DfhXfXEkoOldIIcZXbEo",
             "Content-Type": "application/json",
             "Cookie": "xxoo-tmp=en-US",
             "Ngsw-Bypass": "true",
